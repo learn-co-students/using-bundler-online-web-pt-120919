@@ -101,4 +101,4 @@ describe "Bundler" do
       expect { require_relative "../bin/run.rb" }.not_to raise_error
     end
   end
-end
+
