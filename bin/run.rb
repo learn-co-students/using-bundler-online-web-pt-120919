@@ -1,5 +1,2 @@
-Hashie
-Sinatra
-Octokit
-Pry
-AwesomePrint
+Bundler.require "Gemfile"
+
